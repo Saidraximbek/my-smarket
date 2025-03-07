@@ -40,4 +40,3 @@ fetchData("https://dummyjson.com/products")
   .catch((error) => {
     console.log(error);
   });
-// jjhggyg
